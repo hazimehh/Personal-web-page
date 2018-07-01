@@ -10,31 +10,29 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
+    "Machine Learning",
+    "Optimization",
     "Information Retrieval"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Operations Research"
+  institution = "Massachusetts Institute of Technology"
+  year = 2021
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "MS in Computer Science"
+  institution = "University of Illinois at Urbana-Champaign"
+  year = 2016
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
- 
+  course = "BE in Electrical & Computer Eng."
+  institution = "American University of Beirut"
+  year = 2014
+
 +++
 
-# Biography
+Welcome to my page! I am a PhD candidate at the MIT Operations Research Center, advised by Prof. [Rahul Mazumder](http://www.mit.edu/~rahulmaz/). My research lies at the intersection of machine learning and optimization. Specifically, I am working on developing fast optimization algorithms for more interpretable yet expressive machine learning models. For instance, check out our sparse learning toolkit [L0Learn](#software).
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Before coming to MIT, I did my masters at UIUC where I worked with Prof. [ChengXiang Zhai](http://czhai.cs.illinois.edu/) on improving information recall in search engines. I also did a research internship with the Core Machine Learning team at Amazon, where my work with Prof. [Charles Elkan](http://cseweb.ucsd.edu/~elkan/) reduced the time for serving machine learning models to Amazon's customers by $\sim$ 3000x.
