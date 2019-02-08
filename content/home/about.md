@@ -33,6 +33,6 @@ weight = 5
 
 +++
 
-Welcome to my page! I am a PhD candidate at the MIT Operations Research Center, advised by Prof. [Rahul Mazumder](http://www.mit.edu/~rahulmaz/). My research lies at the intersection of machine learning and optimization. Specifically, I am working on developing fast optimization algorithms for more interpretable yet expressive machine learning models. For instance, check out our sparse learning toolkit [L0Learn](#software).
+Welcome to my page! I am a PhD candidate at the MIT Operations Research Center, advised by [Rahul Mazumder](http://www.mit.edu/~rahulmaz/). My research lies at the intersection of machine learning and optimization. Specifically, I am working on developing fast optimization algorithms for more interpretable yet expressive machine learning models. For instance, check out our sparse learning toolkit [L0Learn](#software).
 
-Before coming to MIT, I did my masters at UIUC where I worked with Prof. [ChengXiang Zhai](http://czhai.cs.illinois.edu/) on improving information recall in search engines. I also did a research internship with the Core Machine Learning team at Amazon, where my work with Prof. [Charles Elkan](http://cseweb.ucsd.edu/~elkan/) reduced the time for serving machine learning models to Amazon's customers by $\sim$ 3000x.
+Before coming to MIT, I did my masters at UIUC where I worked with [ChengXiang Zhai](http://czhai.cs.illinois.edu/) on improving information recall in search engines. I also did a research internship with the Core Machine Learning team at Amazon, where my work with [Charles Elkan](http://cseweb.ucsd.edu/~elkan/) reduced the time for serving machine learning models by $\sim$ 3000x.
