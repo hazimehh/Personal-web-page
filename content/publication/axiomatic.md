@@ -18,7 +18,7 @@ authors = ["Hussein Hazimeh", "ChengXiang Zhai"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Axiomatic Analysis of Smoothing Methods in Language Models for Pseudo-Relevance Feedback"
+publication = "The ACM SIGIR International Conference on the Theory of Information Retrieval (ICTIR)"
 publication_short = ""
 
 # Abstract and optional shortened version.

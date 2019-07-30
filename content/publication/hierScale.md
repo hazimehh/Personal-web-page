@@ -18,7 +18,7 @@ authors = ["Hussein Hazimeh", "Rahul Mazumder"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Learning Hierarchical Interactions at Scale: A Convex Optimization Approach"
+publication = "Under Review"
 #publication_short = ""
 
 # Abstract and optional shortened version.
