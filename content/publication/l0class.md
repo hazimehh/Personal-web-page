@@ -1,10 +1,10 @@
 +++
-title = "Learning Hierarchical Interactions at Scale: A Convex Optimization Approach"
-date = 2020-02-18
+title = "Learning Sparse Classifiers: Continuous and Mixed Integer Optimization Perspectives"
+date = 2020-01-17
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Hussein Hazimeh", "Rahul Mazumder"]
+authors = ["Antoine Dedieu", "Hussein Hazimeh", "Rahul Mazumder"]
 
 # Publication type.
 # Legend:
@@ -15,10 +15,10 @@ authors = ["Hussein Hazimeh", "Rahul Mazumder"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["1"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "To appear in AISTATS"
+publication = "Under Review"
 #publication_short = ""
 
 # Abstract and optional shortened version.
@@ -43,7 +43,7 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-url_preprint = "https://arxiv.org/abs/1902.01542"
+url_preprint = "https://arxiv.org/abs/2001.06471"
 url_code = ""
 url_dataset = ""
 url_project = ""

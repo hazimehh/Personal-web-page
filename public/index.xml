@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hussein&#39;s Homepage on Hussein&#39;s Homepage</title>
+    <link>http://www.mit.edu/~hazimeh/</link>
+    <description>Recent content in Hussein&#39;s Homepage on Hussein&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0400</lastBuildDate>
+    <atom:link href="/~hazimeh/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Fast Best Subset Selection: Coordinate Descent and Local Combinatorial Optimization Algorithms</title>
+      <link>http://www.mit.edu/~hazimeh/publication/fastsubset/</link>
+      <pubDate>Wed, 19 Feb 2020 00:00:00 -0500</pubDate>
+      
+      <guid>http://www.mit.edu/~hazimeh/publication/fastsubset/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Tree Ensemble Layer: Differentiability meets Conditional Computation</title>
+      <link>http://www.mit.edu/~hazimeh/publication/tel/</link>
+      <pubDate>Wed, 19 Feb 2020 00:00:00 -0500</pubDate>
+      
+      <guid>http://www.mit.edu/~hazimeh/publication/tel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Hierarchical Interactions at Scale: A Convex Optimization Approach</title>
+      <link>http://www.mit.edu/~hazimeh/publication/hierscale/</link>
+      <pubDate>Tue, 18 Feb 2020 00:00:00 -0500</pubDate>
+      
+      <guid>http://www.mit.edu/~hazimeh/publication/hierscale/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Sparse Classifiers: Continuous and Mixed Integer Optimization Perspectives</title>
+      <link>http://www.mit.edu/~hazimeh/publication/l0class/</link>
+      <pubDate>Fri, 17 Jan 2020 00:00:00 -0500</pubDate>
+      
+      <guid>http://www.mit.edu/~hazimeh/publication/l0class/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L0Learn</title>
+      <link>http://www.mit.edu/~hazimeh/software/l0learn/</link>
+      <pubDate>Sun, 01 Jul 2018 15:58:45 -0400</pubDate>
+      
+      <guid>http://www.mit.edu/~hazimeh/software/l0learn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast Algorithms for Best Subset Selection</title>
+      <link>http://www.mit.edu/~hazimeh/talk/fastsubset/</link>
+      <pubDate>Sat, 16 Dec 2017 00:00:00 -0500</pubDate>
+      
+      <guid>http://www.mit.edu/~hazimeh/talk/fastsubset/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Axiomatic Analysis of Smoothing Methods in Language Models for Pseudo-Relevance Feedback</title>
+      <link>http://www.mit.edu/~hazimeh/publication/axiomatic/</link>
+      <pubDate>Sun, 27 Sep 2015 00:00:00 -0400</pubDate>
+      
+      <guid>http://www.mit.edu/~hazimeh/publication/axiomatic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Hierarchical Interactions at Scale</title>
+      <link>http://www.mit.edu/~hazimeh/talk/mip2019/</link>
+      <pubDate>Wed, 31 Dec 1969 19:33:39 -0500</pubDate>
+      
+      <guid>http://www.mit.edu/~hazimeh/talk/mip2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

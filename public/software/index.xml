@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Softwares on Hussein&#39;s Homepage</title>
+    <link>http://www.mit.edu/~hazimeh/software/</link>
+    <description>Recent content in Softwares on Hussein&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jul 2018 15:58:45 -0400</lastBuildDate>
+    
+	<atom:link href="http://www.mit.edu/~hazimeh/software/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>L0Learn</title>
+      <link>http://www.mit.edu/~hazimeh/software/l0learn/</link>
+      <pubDate>Sun, 01 Jul 2018 15:58:45 -0400</pubDate>
+      
+      <guid>http://www.mit.edu/~hazimeh/software/l0learn/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

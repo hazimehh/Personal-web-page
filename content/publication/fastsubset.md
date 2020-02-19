@@ -1,6 +1,7 @@
 +++
 title = "Fast Best Subset Selection: Coordinate Descent and Local Combinatorial Optimization Algorithms"
-date = 2019-07-23
+#date = 2019-07-23
+date = 2020-02-19
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -18,7 +19,7 @@ authors = ["Hussein Hazimeh", "Rahul Mazumder"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Operations Research"
+publication = "To appear in Operations Research"
 #publication_short = ""
 
 # Abstract and optional shortened version.

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Hussein&#39;s Homepage</title>
+    <link>http://www.mit.edu/~hazimeh/home/</link>
+    <description>Recent content in Homes on Hussein&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="http://www.mit.edu/~hazimeh/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://www.mit.edu/~hazimeh/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>http://www.mit.edu/~hazimeh/home/about/</guid>
+      <description>Welcome to my page! I am a fourth-year PhD candidate at the MIT Operations Research Center, advised by Rahul Mazumder. My research lies at the intersection of machine learning and optimization. Specifically, I am working on developing scalable optimization algorithms for sparse and interpretable machine learning models. For instance, check out our sparse learning toolkit L0Learn.
+In 2019, I did a research internship at Google AI, where I worked with Natalia Ponomareva on developing a new tree ensemble layer for neural networks.</description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>http://www.mit.edu/~hazimeh/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>http://www.mit.edu/~hazimeh/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>http://www.mit.edu/~hazimeh/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>http://www.mit.edu/~hazimeh/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>http://www.mit.edu/~hazimeh/home/software/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>http://www.mit.edu/~hazimeh/home/software/</guid>
+      <description>L0Learn: A Fast Toolkit for Best Subset Selection L0Learn fits regularization paths for L0-regularized regression. Specifically, it can solve the following class of problems for $q \in \{1,2 \}$: $$ \min_{\beta} \frac{1}{2} || y - X \beta ||^2 + \lambda ||\beta||_0 + \gamma||\beta||_q^q,$$ over a grid of $\lambda$ and $\gamma$ values. Path-wise optimization can be done using either cyclic coordinate descent or local combinatorial search. The core of the toolkit is implemented in C++ and employs many computational tricks and heuristics, leading to very competitive running times compared to popular solvers for the Lasso.</description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>http://www.mit.edu/~hazimeh/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>http://www.mit.edu/~hazimeh/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>http://www.mit.edu/~hazimeh/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>http://www.mit.edu/~hazimeh/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>http://www.mit.edu/~hazimeh/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>http://www.mit.edu/~hazimeh/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>http://www.mit.edu/~hazimeh/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
+      
+      <guid>http://www.mit.edu/~hazimeh/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://www.mit.edu/~hazimeh/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>http://www.mit.edu/~hazimeh/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

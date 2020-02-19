@@ -1,10 +1,10 @@
 +++
-title = "Learning Hierarchical Interactions at Scale: A Convex Optimization Approach"
-date = 2020-02-18
+title = "The Tree Ensemble Layer: Differentiability meets Conditional Computation"
+date = 2020-02-19
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Hussein Hazimeh", "Rahul Mazumder"]
+authors = ["Hussein Hazimeh", "Natalia Ponomareva", "Petros Mol", "Zhenyu Tan", "Rahul Mazumder"]
 
 # Publication type.
 # Legend:
@@ -18,7 +18,7 @@ authors = ["Hussein Hazimeh", "Rahul Mazumder"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "To appear in AISTATS"
+publication = "Under Review"
 #publication_short = ""
 
 # Abstract and optional shortened version.
@@ -43,7 +43,7 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-url_preprint = "https://arxiv.org/abs/1902.01542"
+url_preprint = "https://arxiv.org/abs/2002.07772"
 url_code = ""
 url_dataset = ""
 url_project = ""
